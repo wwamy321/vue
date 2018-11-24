@@ -3,51 +3,51 @@
 	"msg": "成功!",
 	"data": [
 		{   
-            "src":"/static/image/1.png",
+            "src": "./static/image/1.png",
             "title":"白羊座",
             "date":"3.21-4.19"
         },{
-            "src": "/static/image/2.png",
+            "src": "./static/image/2.png",
             "title": "金牛座",
             "date": "4.20-5.20"
         },{
-            "src": "/static/image/3.png",
+            "src": "./static/image/3.png",
             "title": "双子座",
             "date": "5.21-6.21"
         },{
-            "src": "/static/image/4.png",
+            "src": "./static/image/4.png",
             "title": "巨蟹座",
             "date": "6.22-7.22"
         },{
-            "src": "/static/image/5.png",
+            "src": "./static/image/5.png",
             "title": "狮子座",
             "date": "7.23-8.22"
         },{
-            "src": "/static/image/6.png",
+            "src": "./static/image/6.png",
             "title": "处女座",
             "date": "8.23-9.22"
         },{
-            "src": "/static/image/7.png",
+            "src": "./static/image/7.png",
             "title": "天秤座",
             "date": "3.21-4.19"
         },{
-            "src": "/static/image/8.png",
+            "src": "./static/image/8.png",
             "title": "天蝎座",
             "date": "10.24-11.22"
         },{
-            "src": "/static/image/9.png",
+            "src": "./static/image/9.png",
             "title": "射手座",
             "date": "11.23-12.21"
         },{
-            "src": "/static/image/10.png",
+            "src": "./static/image/10.png",
             "title": "魔蝎座",
             "date": "12.22-1.19"
         },{
-            "src": "/static/image/11.png",
+            "src": "./static/image/11.png",
             "title": "水瓶座",
             "date": "1.20-2.18"
         },{
-            "src": "/static/image/12.png",
+            "src": "./static/image/12.png",
             "title": "双鱼座",
             "date": "2.19-3.20"
         }
